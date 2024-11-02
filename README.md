@@ -34,4 +34,4 @@ async def اغلاق(ctx):
         await ctx.send("هذا الأمر يمكن استخدامه فقط في قنوات التذاكر.")
 
 # تشغيل البوت باستخدام التوكن من متغير بيئي
-bot.run(os.getenv("DISCORD_TOKEN"))
+bot.run(os.getenv("MTMwMjE5OTIxMTkzMjEyNzI3Mw.G1J8j_.4WisSR9EjKlRzEVP9NSjx4t5Va0KHzuH5Borug"))
