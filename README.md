@@ -22,6 +22,7 @@ async def support(ctx, *, message: str):
         await ctx.send("لا يمكن العثور على قناة الدعم.")
         return
 
+
     # إرسال الرسالة لقناة الدعم
     embed = discord.Embed(
         title="طلب دعم فني",
